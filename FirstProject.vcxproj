@@ -146,6 +146,7 @@
     <ClCompile Include="stb.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="Camera.h" />
     <ClInclude Include="Dependencies\Include\glm\glm.hpp" />
     <ClInclude Include="shader_s.h" />
     <ClInclude Include="stb_image.h" />
